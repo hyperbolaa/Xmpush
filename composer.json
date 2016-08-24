@@ -1,9 +1,9 @@
 {
-  "name": "hyperbolaa/express",
-  "type": "express",
-  "description": "express about shunfeng and ucs",
-  "keywords": ["shunfeng", "ucs"],
-  "homepage": "https://github.com/hyperbolaa/express",
+  "name": "hyperbolaa/xmpush",
+  "type": "xmpush",
+  "description": "push news to ios,android",
+  "keywords": ["hyperbolaa", "xmpush"],
+  "homepage": "https://github.com/hyperbolaa/xmpush",
   "license": "MIT",
   "authors": [
     {
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Hyperbolaa\\Express\\": ""
+      "Hyperbolaa\\Xmpush\\": ""
     }
   },
   "extra": {
